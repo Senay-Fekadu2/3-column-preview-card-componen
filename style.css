@@ -62,14 +62,29 @@ p {
     }
     .one {
         border-top-left-radius: 0.5em;
-        border-top-right-radius: 0.5em;
+        border-bottom-left-radius: 0.5em;
+        border-top-right-radius: 0em;
     }
     .three {
-        border-bottom-left-radius: 0.5em;
+        border-top-right-radius: 0.5em;
         border-bottom-right-radius: 0.5em;
+        border-bottom-left-radius: 0em;
     }
     .main-container {
        
         margin:  5em auto;
+    }
+    .cta-btn:hover {
+        border: 2px solid hsl(0, 0%, 95%);
+        color:hsl(0, 0%, 95%);
+    }
+    .btn1:hover {
+        background:hsl(31, 77%, 52%);
+    }
+    .btn2:hover {
+        background:hsl(184, 100%, 22%);
+    }
+    .btn3:hover {
+        background:hsl(179, 100%, 13%);
     }
 }
