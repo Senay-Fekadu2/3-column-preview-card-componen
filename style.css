@@ -61,12 +61,12 @@ p {
         max-width: 750px;
     }
     .one {
-        border-top-left-radius: 0;
-        border-top-right-radius: 0;
+        border-top-left-radius: 0.5em;
+        border-top-right-radius: 0.5em;
     }
     .three {
-        border-bottom-left-radius: 0;
-        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0.5em;
+        border-bottom-right-radius: 0.5em;
     }
     .main-container {
        
