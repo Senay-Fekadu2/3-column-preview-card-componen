@@ -74,10 +74,6 @@ p {
         border-bottom-right-radius: 0.5em;
         border-bottom-left-radius: 0em;
     }
-    .main-container {
-       
-        margin:  5em auto;
-    }
     .cta-btn:hover {
         border: 2px solid hsl(0, 0%, 95%);
         color:hsl(0, 0%, 95%);
