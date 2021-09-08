@@ -5,6 +5,9 @@ body {
     background: hsl(0, 0%, 95%);
 }
 .main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 3em 2em;
     background: hsl(0, 0%, 95%);
     font-size: 0.9375rem;
